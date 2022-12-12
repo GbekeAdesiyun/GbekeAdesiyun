@@ -13,7 +13,8 @@
   - Visual Studio Code
 
 ## How to reach me:
-  [![image](https://user-images.githubusercontent.com/66129702/207127801-3ee146f5-e382-4858-86fa-2c1e08a3ef16.png)](https://www.linkedin.com/in/gbekea/) [![image](https://user-images.githubusercontent.com/66129702/207130835-9f6219ea-94b2-4d99-8180-29059a682905.png)](mailto:msadesiy@uwaterloo.ca)
+  [![image](https://user-images.githubusercontent.com/66129702/207127801-3ee146f5-e382-4858-86fa-2c1e08a3ef16.png)](https://www.linkedin.com/in/gbekea/)
+  [![image](https://user-images.githubusercontent.com/66129702/207130835-9f6219ea-94b2-4d99-8180-29059a682905.png)](mailto:msadesiy@uwaterloo.ca)
 
 <!--
 **GbekeAdesiyun/GbekeAdesiyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
