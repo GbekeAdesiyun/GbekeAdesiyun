@@ -14,7 +14,7 @@
 
 ## How to reach me:
   - [![image](https://user-images.githubusercontent.com/66129702/207127801-3ee146f5-e382-4858-86fa-2c1e08a3ef16.png)](https://www.linkedin.com/in/gbekea/)
-  - msadesiy@uwaterloo.ca
+  - ![image](https://user-images.githubusercontent.com/66129702/207129991-2f1d173f-152f-4fc0-8738-bd55808a9241.png) msadesiy@uwaterloo.ca
 
 <!--
 **GbekeAdesiyun/GbekeAdesiyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
