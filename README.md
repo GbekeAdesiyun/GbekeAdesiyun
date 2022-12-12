@@ -1,6 +1,6 @@
 ### Hey! I'm Gbeke. 
 
-##![image](https://user-images.githubusercontent.com/66129702/207135216-fb84dbdf-4bed-428f-8294-54da0ddc2fef.png) About me
+##👨🏻‍💻 About me
   - 🤖 Studying Mechatronics Engineering at the University of Waterloo
   - 🌱 Learning more about Computer Vision, Robotics, Embedded Systems and Deep Learning 
   - ✍️ Pursuing a career in Computer Vision and Robotics
