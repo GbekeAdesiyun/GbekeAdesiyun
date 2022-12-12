@@ -13,7 +13,7 @@
   - Visual Studio Code
 
 ## How to reach me:
-  - [![image](https://user-images.githubusercontent.com/66129702/207127801-3ee146f5-e382-4858-86fa-2c1e08a3ef16.png)]([url](https://www.linkedin.com/in/gbekea/))
+  - [[![image](https://user-images.githubusercontent.com/66129702/207127801-3ee146f5-e382-4858-86fa-2c1e08a3ef16.png)]](https://www.linkedin.com/in/gbekea/))
   - msadesiy@uwaterloo.ca
 
 <!--
