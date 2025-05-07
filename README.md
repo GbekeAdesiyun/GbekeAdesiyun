@@ -1,7 +1,7 @@
 ### Hey! I'm Gbeke. 
 
 ## 👨🏻‍💻 About me
-  - 🤖 Studying Mechatronics Engineering at the University of Waterloo
+  - 🤖 Mechatronics Engineering Graduate from the University of Waterloo
   - 🌱 Learning more about Computer Vision, Robotics, Embedded Systems and Deep Learning 
   - ✍️ Pursuing a career in Computer Vision and Robotics
   - ⚽ Avid soccer player
