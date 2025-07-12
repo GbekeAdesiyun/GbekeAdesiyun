@@ -2,14 +2,14 @@
 
 ## 👨🏻‍💻 About me
   - 🤖 Mechatronics Engineering Graduate from the University of Waterloo
-  - 🌱 Learning more about Computer Vision, Robotics, Embedded Systems and Deep Learning 
-  - ✍️ Pursuing a career in Computer Vision and Robotics
+  - 🌱 Learning more about Embedded Systems and Robotics
+  - ✍️ Pursuing a career in Embedded Systems
   - ⚽ Avid soccer player
 
 ## 🌐 Tech Stack
-  - 💻 Python | C++ | C | MATLAB
-  - 🚝 TensorFlow | Keras | ROS/ROS2 | OpenCV | 3D Slicer 
+  - 💻 C | C++ | Python | MATLAB
   - 🔑 SPI | I2C | UART | USB | CMSIS-RTOS | CMake
+  - 🚝 TensorFlow | Keras | ROS/ROS2 | OpenCV | 3D Slicer 
   - ⚙️ Git | Github
   - 🔧 Visual Studio Code
 
